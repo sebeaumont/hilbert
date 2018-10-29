@@ -1,0 +1,3 @@
+[submodule "contrib/idris-tparsec"]
+	path = contrib/idris-tparsec
+	url = git@github.com:sebeaumont/idris-tparsec.git
